@@ -1819,7 +1819,7 @@ footer{
             left: 2px;
         }
         .terms{
-            left: -130px;
+            left: -140px;
             top: 530px;
         }
         .terms a{
@@ -1841,8 +1841,11 @@ footer{
         }
         .socialmedia{
             left: 110px;
-            z-index: 0;
-            top: 100px;
+            top: 153px;
+            font-size: 10px;
+        }
+        .socialmedia i{
+            font-size: 18px;
         }
     }
 
