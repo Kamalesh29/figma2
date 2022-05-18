@@ -1499,7 +1499,7 @@ footer{
             background-position: center;
             background-size: cover;
             height: 30vh;
-            top: 500px;
+            top: 520px;
         }
         .company img{
             width: 270px;
@@ -1538,13 +1538,13 @@ footer{
            text-align: start;
         } */
         .rect img{
-            left: -650px;
+            left: -675px;
             width: 370px;
             height: 18vh;
             bottom: -260px;
         }
         .rect3 img{
-            left: -20px;
+            left: -17px;
             width: 420px;
             height: 140px;
             margin-top: 225px;
@@ -1577,7 +1577,7 @@ footer{
         }
         .card{
             left: 75px;
-            margin-top: 370px;
+            margin-top: 390px;
         }
         .carder{
             margin-top: 302px;
@@ -1610,13 +1610,13 @@ footer{
         }
         .card2 h5{
             opacity: 10;
-            width: 100%;
+            /* width: ; */
             left: -6px;
         }
         .cardbox{
             left: 55px;
             margin-top: 600px;
-            border: 0.5px solid rgba(0, 0, 0, 0.25);
+            border: 0.5px solid rgba(53, 36, 36, 0.25);
         }
         .cardbox a{
             width: 100%;
